@@ -1,2 +1,2 @@
 # regina
-A network virtualization platform based on Open Virtual Network (OVN), providing multi-tenant support with administration through a web interface.
+A network virtualization platform with a web ui, based on Open Virtual Network (OVN).
