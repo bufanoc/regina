@@ -20,6 +20,6 @@ This platform allows users to create and manage virtual networks, logical router
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/network-virtualization-platform.git
+   git clone https://github.com/bufanoc/regina/network-virtualization-platform.git
    cd network-virtualization-platform/backend
 
