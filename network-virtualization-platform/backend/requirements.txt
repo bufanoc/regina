@@ -1,1 +1,14 @@
+Flask==2.1.2
+Flask-SQLAlchemy==2.5.1
+Flask-Bcrypt==0.7.1
+Flask-Login==0.5.0
+Flask-Migrate==3.1.0
+psycopg2==2.9.3  # For PostgreSQL integration
+gunicorn==20.1.0  # Production WSGI server
+
+# Open vSwitch interaction (optional, can use subprocess)
+subprocess.run==0.5.1
+
+# For XCP-NG/XenAPI event handling
+XenAPI==1.9.1
 
