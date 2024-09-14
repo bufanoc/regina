@@ -1,5 +1,7 @@
 # Regina Web based network virtualization platform 
-# Network Virtualization Platform
+# Network Virtualization Platform 
+This work of passion is dedicated to my beautiful wife Regina. It is a incredible feeling when someone who knows me so completely decides to continue loving me despite my shortcomings. Her goodness is beyond human. She does not realize her current beauty. Thank you for giving me a reason to wake up every morning. I love you.
+
 
 ## Overview
 
