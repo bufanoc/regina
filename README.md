@@ -1,5 +1,5 @@
 # The Regina Web based network virtualization platform.
-#***Still very much in development this is not complete***
+# Still very much in development 
  
 
 ## Overview
