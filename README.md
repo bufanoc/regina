@@ -1,4 +1,4 @@
-# The Regina Web based network virtualization platform.
+# Web based network virtualization platform.
 # Still very much in development 
  
 
